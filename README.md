@@ -1,8 +1,8 @@
 Projet final python
 
-CHERENFANT Vinchy Rosensky
-CLOCIN Jonas
-PIERRE Valendino
+CHERENFANT Vinchy Rosensky,
+CLOCIN Jonas,
+PIERRE Valendino,
 JOSEPH Hanson
 
 Un professeur ne peut avoir un cours (08:00 pour 10:00 dans une salle et 10:00 pour 12:00 dans une autre salle) pour 
